@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
-require('dotenv').config({ path: path.join(__dirname, '../../.config') });
+require('dotenv').config({ path: path.join(__dirname, '../.config') });
 
 async function automate() {
     const applyReference = process.env.APPLY_REFERENCE || '참고자료';
