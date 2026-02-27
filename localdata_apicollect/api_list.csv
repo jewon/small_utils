@@ -179,7 +179,7 @@ API Name,Base URL,Source URL
 "행정안전부_식품_건강기능식품일반판매업 조회서비스","apis.data.go.kr/1741000/health_functional_food_general_retailers","https://www.data.go.kr/data/15155221/openapi.do"
 "행정안전부_식품_식용얼음판매업 조회서비스","apis.data.go.kr/1741000/edible_ice_retailers","https://www.data.go.kr/data/15155226/openapi.do"
 "행정안전부_문화_전문휴양업 조회서비스","apis.data.go.kr/1741000/special_resorts","https://www.data.go.kr/data/15155232/openapi.do"
-"행정안전부_문화_전통사찰 조회서비스","apis.data.go.kr/1741000/traditionalles","https://www.data.go.kr/data/15155235/openapi.do"
+"행정안전부_문화_전통사찰 조회서비스","apis.data.go.kr/1741000/traditional_temples","https://www.data.go.kr/data/15155235/openapi.do"
 "행정안전부_문화_관광궤도업 조회서비스","apis.data.go.kr/1741000/tourist_railways","https://www.data.go.kr/data/15155236/openapi.do"
 "행정안전부_식품_옹기류제조업 조회서비스","apis.data.go.kr/1741000/onggi_manufacturers","https://www.data.go.kr/data/15155237/openapi.do"
 "행정안전부_문화_종합테마파크업 조회서비스","apis.data.go.kr/1741000/comprehensive_amusement_facilities","https://www.data.go.kr/data/15155238/openapi.do"
